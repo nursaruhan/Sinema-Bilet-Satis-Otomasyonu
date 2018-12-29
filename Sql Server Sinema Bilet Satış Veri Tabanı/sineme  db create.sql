@@ -1,0 +1,1 @@
+create database SinemaDB collate turkish_ci_as;

@@ -1,0 +1,48 @@
+C:\Users\saruhan\Desktop\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csprojAssemblyReference.cache
+C:\Users\saruhan\Desktop\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.Properties.Resources.resources
+C:\Users\saruhan\Desktop\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.GenerateResource.cache
+C:\Users\saruhan\Desktop\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.CoreCompileInputs.cache
+C:\Users\saruhan\Desktop\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.exe.config
+C:\Users\saruhan\Desktop\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.exe
+C:\Users\saruhan\Desktop\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.pdb
+C:\Users\saruhan\Desktop\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.exe
+C:\Users\saruhan\Desktop\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.pdb
+C:\Users\saruhan\Desktop\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.adminBiletFormu.resources
+C:\Users\saruhan\Desktop\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.adminFilmFormu.resources
+C:\Users\saruhan\Desktop\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.adminKullaniciFormu.resources
+C:\Users\saruhan\Desktop\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.LoginFormu.resources
+C:\Users\saruhan\Desktop\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.ParolaFormu.resources
+C:\Users\merve\Desktop\yazılım son\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.exe.config
+C:\Users\merve\Desktop\yazılım son\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.exe
+C:\Users\merve\Desktop\yazılım son\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.pdb
+C:\Users\merve\Desktop\yazılım son\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csprojAssemblyReference.cache
+C:\Users\merve\Desktop\yazılım son\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.adminBiletFormu.resources
+C:\Users\merve\Desktop\yazılım son\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.adminFilmFormu.resources
+C:\Users\merve\Desktop\yazılım son\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.adminKullaniciFormu.resources
+C:\Users\merve\Desktop\yazılım son\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.LoginFormu.resources
+C:\Users\merve\Desktop\yazılım son\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.ParolaFormu.resources
+C:\Users\merve\Desktop\yazılım son\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.Properties.Resources.resources
+C:\Users\merve\Desktop\yazılım son\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.GenerateResource.cache
+C:\Users\merve\Desktop\yazılım son\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\yazılım son\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.exe
+C:\Users\merve\Desktop\yazılım son\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.pdb
+C:\Users\merve\Desktop\yazılım son\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.adminAnasayfa.resources
+C:\Users\saruhan\Desktop\Yazılım Projesi\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.exe.config
+C:\Users\saruhan\Desktop\Yazılım Projesi\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.exe
+C:\Users\saruhan\Desktop\Yazılım Projesi\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.pdb
+C:\Users\saruhan\Desktop\Yazılım Projesi\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csprojAssemblyReference.cache
+C:\Users\saruhan\Desktop\Yazılım Projesi\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.adminBiletFormu.resources
+C:\Users\saruhan\Desktop\Yazılım Projesi\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.adminFilmFormu.resources
+C:\Users\saruhan\Desktop\Yazılım Projesi\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.adminKullaniciFormu.resources
+C:\Users\saruhan\Desktop\Yazılım Projesi\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.LoginFormu.resources
+C:\Users\saruhan\Desktop\Yazılım Projesi\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.ParolaFormu.resources
+C:\Users\saruhan\Desktop\Yazılım Projesi\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.Properties.Resources.resources
+C:\Users\saruhan\Desktop\Yazılım Projesi\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.GenerateResource.cache
+C:\Users\saruhan\Desktop\Yazılım Projesi\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.CoreCompileInputs.cache
+C:\Users\saruhan\Desktop\Yazılım Projesi\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.exe
+C:\Users\saruhan\Desktop\Yazılım Projesi\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.pdb
+C:\Users\saruhan\Desktop\Yazılım Projesi\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.adminAnasayfaFormu.resources
+C:\Users\saruhan\Desktop\Yazılım Projesi\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.biletDegisiklikForm.resources
+C:\Users\saruhan\Desktop\Yazılım Projesi\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.CalisanAnasayfaForm.resources
+C:\Users\saruhan\Desktop\Yazılım Projesi\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.salonForm.resources
+C:\Users\saruhan\Desktop\Yazılım Projesi\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.YeniBiletForm.resources

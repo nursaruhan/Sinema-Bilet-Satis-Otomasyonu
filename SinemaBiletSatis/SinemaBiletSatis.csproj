@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{293AC4DE-6B6B-456A-A549-C3BA6D4AFD8E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SinemaBiletSatis</RootNamespace>
+    <AssemblyName>SinemaBiletSatis</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adminAnasayfaFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminAnasayfaFormu.Designer.cs">
+      <DependentUpon>adminAnasayfaFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminBiletFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminBiletFormu.Designer.cs">
+      <DependentUpon>adminBiletFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminFilmFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminFilmFormu.Designer.cs">
+      <DependentUpon>adminFilmFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminKullaniciFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminKullaniciFormu.Designer.cs">
+      <DependentUpon>adminKullaniciFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="biletDegisiklikForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="biletDegisiklikForm.Designer.cs">
+      <DependentUpon>biletDegisiklikForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalisanAnasayfaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalisanAnasayfaForm.Designer.cs">
+      <DependentUpon>CalisanAnasayfaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller\adminBiletController.cs" />
+    <Compile Include="Controller\adminFilmController.cs" />
+    <Compile Include="Controller\adminKullaniciController.cs" />
+    <Compile Include="Controller\anasayfaController.cs" />
+    <Compile Include="Controller\biletcontroller.cs" />
+    <Compile Include="Controller\idController.cs" />
+    <Compile Include="Controller\loginController.cs" />
+    <Compile Include="Controller\salonController.cs" />
+    <Compile Include="LoginFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginFormu.Designer.cs">
+      <DependentUpon>LoginFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modeller\Bilet.cs" />
+    <Compile Include="Modeller\Filmler.cs" />
+    <Compile Include="Modeller\Kullanicilar.cs" />
+    <Compile Include="Modeller\SalonSeans.cs" />
+    <Compile Include="ParolaFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParolaFormu.Designer.cs">
+      <DependentUpon>ParolaFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="salonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salonForm.Designer.cs">
+      <DependentUpon>salonForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniBiletForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniBiletForm.Designer.cs">
+      <DependentUpon>YeniBiletForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adminAnasayfaFormu.resx">
+      <DependentUpon>adminAnasayfaFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminBiletFormu.resx">
+      <DependentUpon>adminBiletFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminFilmFormu.resx">
+      <DependentUpon>adminFilmFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminKullaniciFormu.resx">
+      <DependentUpon>adminKullaniciFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="biletDegisiklikForm.resx">
+      <DependentUpon>biletDegisiklikForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalisanAnasayfaForm.resx">
+      <DependentUpon>CalisanAnasayfaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginFormu.resx">
+      <DependentUpon>LoginFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParolaFormu.resx">
+      <DependentUpon>ParolaFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="salonForm.resx">
+      <DependentUpon>salonForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniBiletForm.resx">
+      <DependentUpon>YeniBiletForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resim\147.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resim\zx.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resim\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resim\asd.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
